@@ -1,3 +1,6 @@
+# DATE :- 11-05-2023
+
+
 top = -1
 SIZE = int(input("Enter the Size of Stack = "))
 array = [0] * SIZE
