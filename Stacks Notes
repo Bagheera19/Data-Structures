@@ -1,0 +1,16 @@
+Applications of Stack 
+    1. Back and forward buttons in a web browser.
+    2. UNDO/REDO functionality in text editors and image editing software.
+    3. Messaging applications
+
+NOTE :- 
+    1. Push ----------> check for "Overflow"
+    2. Pop  ----------> check for "Underflow"
+    3. Peek ----------> check for "Underflow"
+    4. Display -------> check for "Underflow"
+  
+    CONDITION FOR :-  
+    1. Overflow ------> top == Size - 1
+    2. Underflow -----> top == -1
+    3. Display  ------> for i in range (top, -1, -1)  / (inp_array[top -1], -1, -1)
+    
